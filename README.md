@@ -1,3 +1,7 @@
+> This repository is under MIT license and contains Projects for practising Data Analysis
+>
+> The notes, code, projects, dashboards, and documentation are shared publicly so everyone can follow along the Youtube Tutorial
+
 # Data Analysis Projects
 
 This repository contains data analysis projects created as part of my Data Analyst learning journey.
@@ -58,3 +62,13 @@ All projects are explained step-by-step on my YouTube channel:
 ## Author
 
 **Subir Sutradhar**
+
+---
+
+## License
+
+This repository is licensed under the MIT License.
+
+You are free to learn from, share, and adapt the material for non-commercial purposes, provided that appropriate credit is given and any derivative work is distributed under the same license.
+
+© Subir Sutradhar
