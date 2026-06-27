@@ -22,7 +22,7 @@ to understand how visualization techniques make data easier to interpret.
 ```text
 Matplotlib-Chart-Customization/
 │
-├── chart_customization.py
+├── custom_chart.py
 ├── screenshots/
 │   └── comparison_chart.png
 └── README.md
